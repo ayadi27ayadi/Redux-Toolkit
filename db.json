@@ -1,0 +1,89 @@
+{
+  "pictures": [
+    {
+      "artist": "Paulin Frustro",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/352",
+      "addedDate": 1649240229849,
+      "id": 1
+    },
+    {
+      "artist": "Kamau",
+      "year": "2005",
+      "photo": "https://picsum.photos/400/484",
+      "id": 3
+    },
+    {
+      "artist": "Samedixs",
+      "year": "2010",
+      "photo": "https://picsum.photos/400/396",
+      "id": 4
+    },
+    {
+      "artist": "Misan Harriman",
+      "year": "1999",
+      "photo": "https://picsum.photos/400/338",
+      "id": 5
+    },
+    {
+      "artist": "Takeshi Nagano",
+      "year": "2017",
+      "photo": "https://picsum.photos/400/499",
+      "id": 6
+    },
+    {
+      "artist": "Neil Burnell",
+      "year": "2012",
+      "photo": "https://picsum.photos/400/443",
+      "id": 7
+    },
+    {
+      "artist": "Martin Grange",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/470",
+      "id": 9
+    },
+    {
+      "artist": "dfgfdgb",
+      "year": "ffgfg",
+      "photo": "https://picsum.photos/400/492",
+      "id": 10
+    },
+    {
+      "artist": "",
+      "year": "",
+      "photo": "https://picsum.photos/400/468",
+      "id": 11
+    },
+    {
+      "artist": "from $",
+      "year": "2020",
+      "photo": "https://picsum.photos/400/389",
+      "id": 12
+    },
+    {
+      "artist": "from Scratch",
+      "year": "1900",
+      "photo": "https://picsum.photos/400/338",
+      "id": 13
+    },
+    {
+      "artist": "From scratch",
+      "year": "1988",
+      "photo": "https://picsum.photos/400/324",
+      "id": 14
+    },
+    {
+      "artist": "bnj",
+      "year": "1920",
+      "photo": "https://picsum.photos/400/393",
+      "id": 15
+    },
+    {
+      "artist": "bnj",
+      "year": "1920",
+      "photo": "https://picsum.photos/400/364",
+      "id": 16
+    }
+  ]
+}
